@@ -2,7 +2,6 @@
 
 The primary objective of this assignment is to leverage machine learning to accurately identify and classify different tree species present in the university garden. This project holds significant importance as it not only aids in the efficient management and conservation of plant species but also showcases the practical application of artificial intelligence in the field of botany.
 
-Project Link: https://github.com/Isuru-Pradeep/Neural-Network-for-Tree-Species-Classification
 
 ## Installation
 
