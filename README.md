@@ -14,7 +14,7 @@ Make sure you have [Anaconda](https://www.anaconda.com/products/distribution) in
 Clone the repository and create the conda environment:
 
 ```sh
-git clone https://github.com/Isuru-Pradeep/Neural-Network-for-Tree-Species-Classification.git
+git clone https://github.com/Thisira99/Neural_Network_for_Tree_Species_Classification.git
 cd your-repository
 conda env create -f environment.yml
 conda activate your-environment-name
